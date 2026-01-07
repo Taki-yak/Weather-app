@@ -39,5 +39,8 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+<<<<<<< HEAD
 key
 key.pub
+=======
+>>>>>>> 8fcbda988b2fd7cc5870e184a754ba09f4561e4c
